@@ -10,9 +10,9 @@ const Education = ()=>{
             <div className="resume-item d-flex flex-column flex-md-row mb-5">
               <div className="resume-content mr-auto">
                 <h3 className="mb-0">Universitas Nasional</h3>
-                <div className="subheading mb-3">Bachelor of Science</div>
-                <div>Computer Science - Artificial Intelligence Track</div>
-                <p>GPA: 3.81</p>
+                <div className="subheading mb-3">Bachelor of computer Science</div>
+                <div>Informatics - Artificial Intelligence Track</div>
+                <p>GPA: 3.89</p>
               </div>
               <div className="resume-date text-md-right">
                 <span className="text-primary">September 2015 - Now</span>
@@ -44,19 +44,19 @@ const Education = ()=>{
                       <td>95</td>
                     </tr>
                     <tr>
-                      <th scope="row">1</th>
+                      <th scope="row">2</th>
                       <td>PHP</td>
                       <td>90</td>
                       <td>95</td>
                     </tr>
                     <tr>
-                      <th scope="row">1</th>
+                      <th scope="row">3</th>
                       <td>CSS</td>
                       <td>90</td>
                       <td>96</td>
                     </tr>
                     <tr>
-                      <th scope="row">1</th>
+                      <th scope="row">4</th>
                       <td>MYSQL</td>
                       <td>88</td>
                       <td>90</td>
@@ -68,7 +68,7 @@ const Education = ()=>{
                 <tbody>
                   <tr>
                     <th scope="row">No Seri</th>
-                    <td>: CI.2016 0003</td>
+                    <td>: Wm.2015.743</td>
                   </tr>
                   <tr>
                     <th scope="row">Nilek</th>
@@ -140,6 +140,7 @@ const Education = ()=>{
             </div>
 
           </div>
+
         </section>
   )
 }

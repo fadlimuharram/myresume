@@ -17,6 +17,9 @@ class Menu extends Component {
               <NavLink className="nav-link js-scroll-trigger" to="/education">Education</NavLink>
             </li>
             <li className="nav-item">
+              <NavLink className="nav-link js-scroll-trigger" to="/seminars-and-events">Seminars and Events</NavLink>
+            </li>
+            <li className="nav-item">
               <NavLink className="nav-link js-scroll-trigger" to="/skills">Skills</NavLink>
             </li>
 
