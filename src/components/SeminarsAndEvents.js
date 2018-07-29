@@ -40,6 +40,17 @@ const SeminarAndEvents = ()=>{
               </div>
             </div>
 
+            <div className="resume-item d-flex flex-column flex-md-row mb-5">
+              <div className="resume-content mr-auto">
+                <h3 className="mb-0">Creative and Innovative Through Robot Development</h3>
+                <div className="subheading mb-3">Robo Edukasi</div>
+                <div>Category : Workshop </div>
+              </div>
+              <div className="resume-date text-md-right">
+                <span className="text-primary">12 january 2018 - 13 january 2018</span>
+              </div>
+            </div>
+
 
 
 
